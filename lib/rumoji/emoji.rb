@@ -15,7 +15,7 @@ module Rumoji
     end
 
     def code
-      '' #":#{symbol}:"
+      ' ' #":#{symbol}:"
     end
 
     def include?(symbol)
